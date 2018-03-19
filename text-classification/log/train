@@ -1,0 +1,6 @@
+2018-03-13 23:26:04,913 - train - INFO - D:/epu/datamining/text-classification/model/nb.pkl - Save success!
+2018-03-13 23:26:10,023 - train - INFO - D:/epu/datamining/text-classification/model/svm.pkl - Save success!
+2018-03-19 17:11:13,248 - train - INFO - ../model/nb.pkl - Save success!
+2018-03-19 17:11:16,487 - train - INFO - ../model/svm.pkl - Save success!
+2018-03-19 17:11:36,703 - train - INFO - ../model/nb.pkl - Save success!
+2018-03-19 17:11:39,927 - train - INFO - ../model/svm.pkl - Save success!
